@@ -23,16 +23,13 @@ A seguir encontra-se o protótipo de papel criado manualmente e digitalizado par
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4QVXc88UHCaQML2sfYLFUV%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 
+### Protótipo 2 - Tarefa visualizar contracheque
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4QVXc88UHCaQML2sfYLFUV%2FProt%25C3%25B3tipo-de-Papel---PMBA%3Fnode-id%3D37%253A2" allowfullscreen></iframe>
+
 ## 3. Conclusão
 
-A prototipação será utilizada no site da [PMBA](../../index.md) pois:
-
-* Ajuda a descobrir problemas mais cedo;
-* Garante que os requisitos do sistema atendem às necessidades;
-* Ajuda no relacionamento com o cliente (exibir a evolução do projeto);
-* Testes de aceitação do produto (para saber se o produto é bem visto);
-* Fornece uma melhor visibilidade do progresso do projeto;
-* O feedback do usuário é mais confiável (esse é o melhor de todos);
+É possível afirmar que a realização dos protótipos de baixa fidelidade apresentou uma melhor visão sistêmica de usabilidade do site da Polícia Militar do Estado da Bahia. Dessa forma, pode-se concluir que com a produção desses protótipos tornou-se possível analisar e visualizar de forma mais sintática o mapeamento de ações para cada uma das tarefas listadas. Assim, esse documento se torna aplicável para consulta nos processos de avaliação de design e usabilidade.
 
 ## 4. Referências
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -43,3 +40,4 @@ A prototipação será utilizada no site da [PMBA](../../index.md) pois:
 |--------|--------|-------------------------|-------------------|
 | 1.0    | 29/03/2022        | Criação do documento    |                  Carlos Rafael |
 | 1.1    | 30/03/2022        | Adicionando informações sobre prototipação de papel    |Jackes Fonseca |
+| 1.2    | 06/04/2022        | Adicionando prototipação de papel parte 2    |Jackes Fonseca |

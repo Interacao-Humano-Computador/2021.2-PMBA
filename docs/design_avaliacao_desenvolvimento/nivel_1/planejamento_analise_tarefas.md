@@ -1,14 +1,14 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
-## Introdução
+## 1. Introdução
 
 &emsp;&emsp;A fim de realizar um bom trabalho de Interação Humano Computador, diversos sites foram analisados quanto a sua usabilidade.Para um processo de desenvolvimento de sistemas interativos de alta qualidade, é essencial a avaliação de IHC para encontrar problemas de usabilidade que deverão então ser corrigidos. Essa etapa levou algumas semanas, porém, permitiu a todos a identificação do melhor domínio para a disciplina.
 
-## Objetivo
+### Objetivo
 
 &emsp;&emsp;O principal objetivo da avaliação é verificar se o fluxo identificado na análise de tarefas condiz com as atividades realizadas em um cenário real de uso e, com isso, entender melhor como usuários utilizam o sistema.
 
-## Metodologia
+## 2. Metodologia
 
 &emsp;&emsp;Para realizar a avaliação, é necessário definir um método de avaliação. Levando em consideração o contexto e que se trata de uma avalição da análise das tarefas realizadas no sistema, o grupo optou por utilizar o método de inspeção denominada Percurso Cognitivo.<br>
 &emsp;&emsp;O percurso cognitivo guia a inspeção da interface pelas tarefas do usuário. Nesse método, o avaliador percorre a interface inspecionando as ações projetadas para um usuário concluir cada tarefa utilizando o sistema. Para cada ação, o avaliador tenta se colocar no papel de um usuário e detalha como seria sua interação com o sistema naquele momento.<br>
@@ -21,7 +21,7 @@
 | Interpretação e consolidação dos resultados | Sintetizar os resultados sobre a precisão do diagrama HTA e sobre o que precisa ser alterado na análise de tarefas.                                                                                                                                                                                                                                                                                                         |
 | Relato dos resultados                       | O relato dos resultados pode conter:<br>- Descrição das tarefas realizadas<br>- Descrição de como cada diagrama HTA está ou não condizente com a realidade<br>- Descrição do que precisa ser modificado na análise de cada tarefa<br> - Sugestões de solução                                                                                                                                                                |
 
-## Preparação
+### Preparação
 
 &emsp;&emsp;As tarefas a serem avaliadas e suas respectivas personas e ações são:
 
@@ -76,11 +76,11 @@
 
 &emsp;&emsp;Nessa etapa, o avaliador terá que redigir um relatório com os resultados que obteve na avaliação e descrevendo os problemas encontrados e as sugestões de correção.
 
-## Bibliografia
+## 3. Bibliografia
 
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
 
-## Histórico de Versão
+## 4. Histórico de Versão
 
 | Versão | Data       | Modificação          | Autor          |
 | ------ | ---------- | -------------------- | -------------- |

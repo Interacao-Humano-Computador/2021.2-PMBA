@@ -26,17 +26,17 @@ A metodologia utilizada para avaliação do storyboard foi uma entrevista com um
 
 <br/>
 
-## 4. Relatório da avaliação
+## 3. Relatório da avaliação
 
 Após a entrevista, o entrevistado alegou que o storyboard está completo e que o acesso a função de visualizar notícias no site da Policia militar da Bahia é fácil mas poderia melhorar
 <br/>
 
-## 3. Referências
+## 4. Referências
 
 1. BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação Humano computador. Elsevier. Ed. 1. 2010.
    <br/>
 
-## 4. Histórico de Versão
+## 5. Histórico de Versão
 
 | Versão | Data       | Descrição                                   | Autor(es)      |
 | ------ | ---------- | ------------------------------------------- | -------------- |

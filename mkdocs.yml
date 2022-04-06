@@ -1,59 +1,78 @@
-site_name: PMBA
+  site_name: PMBA
 
-repo_name: "2021.2-PMBA"
-repo_url: "https://github.com/Interacao-Humano-Computador/2021.2-PMBA"
+  repo_name: "2021.2-PMBA"
+  repo_url: "https://github.com/Interacao-Humano-Computador/2021.2-PMBA"
 
-extra_css:
-  - extra.css
+  extra_css:
+    - extra.css
 
-theme:
-  name: material
-  language: "pt"
-  logo: assets/pmbalogo.png
-  palette:
-    primary: "#fff"
-    accent: "light blue"
-  font:
-    text: "Montserrat"
-    code: "sans-serif"
+  theme:
+    name: material
+    language: "pt"
+    logo: assets/pmbalogo.png
+    palette:
+      primary: "#fff"
+      accent: "light blue"
+    font:
+      text: "Montserrat"
+      code: "sans-serif"
 
-nav:
-  - Início: index.md
-  - Planejamento:
-      - Ferramentas: planejamento/ferramentas.md
-      - Sites Avaliados: planejamento/lista_sites.md
-      - Site escolhido: planejamento/site.md
-      - Cronograma do Projeto: planejamento/cronograma.md
-      - Processo de Design: processo_design/processo_design.md
-  - Análise de Requisitos:
-      - Perfil de usuário: analise_requisitos/contexto_uso/perfil_usuario.md
-      - Personas: analise_requisitos/contexto_uso/personas.md
-      - Análise de Tarefas: analise_requisitos/contexto_uso/analise_tarefas.md
-      - Princípios Gerais: analise_requisitos/principios_projeto.md
-      - Guia de Estilo: analise_requisitos/guia_estilo.md
-      - Metas de Usabilidade: analise_requisitos/metas_usabilidade.md
-      - Storyboard: analise_requisitos/contexto_uso/storyboard.md
-  - Design, Avaliação e Desenvolvimento:
-      - Nível 1:
-          - Análise de Tarefas:
-              - Planejamento da avaliação de análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md
-              - Avaliação de análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/avaliacao_analise_tarefas.md
-          - Storyboard:
-              - Planejamento da Avaliação - Storyboard: design_avaliacao_desenvolvimento/nivel_1/planejamento_storyboard.md
-              - Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard.md
-      - Nível 2:
-          - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel.md
-          - Planejamento da Avaliação - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_papel.md
-  - Análise:
-      - Verificação:
-          - Análise de Tarefas: analise/verificacao/analise_de_tarefas.md
-          - Planejamento da Avaliação da Análise de Tarefas: analise/verificacao/planejamento_avaliacao_analise_de_tarefas.md
+  nav:
+    - Início: index.md
+    - Planejamento:
+        - Ferramentas: planejamento/ferramentas.md
+        - Sites Avaliados: planejamento/lista_sites.md
+        - Site escolhido: planejamento/site.md
+        - Cronograma do Projeto: planejamento/cronograma.md
+        - Processo de Design: processo_design/processo_design.md
+    - Análise de Requisitos:
+        - Perfil de usuário: analise_requisitos/contexto_uso/perfil_usuario.md
+        - Personas: analise_requisitos/contexto_uso/personas.md
+        - Análise de Tarefas: analise_requisitos/contexto_uso/analise_tarefas.md
+        - Princípios Gerais: analise_requisitos/principios_projeto.md
+        - Guia de Estilo: analise_requisitos/guia_estilo.md
+        - Metas de Usabilidade: analise_requisitos/metas_usabilidade.md
+        - Storyboard: analise_requisitos/contexto_uso/storyboard.md
+    - Design, Avaliação e Desenvolvimento:
+        - Nível 1:
+            - Análise de Tarefas:
+                - Planejamento da avaliação de análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md
+                - Avaliação de análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/avaliacao_analise_tarefas.md
+            - Storyboard:
+                - Planejamento da Avaliação - Storyboard: design_avaliacao_desenvolvimento/nivel_1/planejamento_storyboard.md
+                - Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard.md
+        - Nível 2:
+            - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel.md
+            - Planejamento da Avaliação - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_papel.md
 
-  - Apresentações:
-      - Apresentação 1: apresentacoes/apresentacao1.md
-      - Apresentação 2: apresentacoes/apresentacao2.md
-      - Apresentação 3: apresentacoes/apresentacao3.md
-      - Apresentação 4: apresentacoes/apresentacao4.md
-      - Apresentação 5: apresentacoes/apresentacao5.md
-  - Sprints:
-      - Sprint 1: sprint/healtcheck.md
+    - Verificação dos Artefatos:
+        - Introdução: verificacao/introducao.md
+        - Planejamento:
+            - Processo de Design: verificacao/processo_design.md   
+        - Análise de Requisitos:
+            - Perfil de usuário: verificacao/perfil_usuario.md
+            - Personas: verificacao/personas.md
+            - Análise de Tarefas: verificacao/analise_de_tarefas.md
+            - Princípios Gerais: verificacao/principios_gerais.md
+            - Guia de Estilo: verificacao/guia_estilo.md
+            - Metas de Usabilidade: verificacao/metas_usabilidade.md
+            - Storyboard: verificacao/storyboard.md
+        - Design, Avaliação e Desenvolvimento:
+            - Nível 1:
+                - Análise de tarefas:
+                    - Planejamento da avaliação de análise de tarefas: verificacao/planejamento_avaliacao_analise_de_tarefas.md
+                    - Avaliação de análise de tarefas: verificacao/avaliacao_analise_tarefas.md
+                - Storyboard: 
+                    - Planejamento da avaliação do Storyboard: verificacao/planejamento_avaliacao_storyboard.md
+                    - Avaliação do storyboard: verificacao/avaliacao_storyboard.md
+            - Nível 2:
+                - Protótipo de papel: verificacao/prototipo_papel.md
+                - Planejamento da avaliação do protótipo de papel: verificacao/planejamento_avaliacao_prototipo_papel.md
+    - Apresentações:
+        - Apresentação 1: apresentacoes/apresentacao1.md
+        - Apresentação 2: apresentacoes/apresentacao2.md
+        - Apresentação 3: apresentacoes/apresentacao3.md
+        - Apresentação 4: apresentacoes/apresentacao4.md
+        - Apresentação 5: apresentacoes/apresentacao5.md
+    - Sprints:
+        - Sprint 1: sprint/healtcheck.md

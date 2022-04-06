@@ -4,10 +4,10 @@
 ## 2. Metodologia
 
 
-## 3. Referências
-1. 
-
 ## 4. Conclusão
+
+## 4. Referências
+1. 
 
 ## 5. Histórico de Versão
 

@@ -79,14 +79,14 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 - Os perfis de público interno (Policiais Militares) se sente confortável com as interfaces internas do sistema ? (Contra Cheque e Login)
 
 
-## 5. Referências
+## 5. Conclusão
+
+Ao final da avaliação, nosso protótipo de papel será modificado de acordo com as experiências do usuário e os dados coletados. Para isto, iremos dar ênfase na interação do usuário com o protótipo, com a meta de alcançar nosso objetivos anteriormente listados. 
+
+## 6. Referências
 
 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
    Interação Humano-Computador e Experiência do usuário. Autopublicação. Página 303, tópico 12.2.3 - Prototipação em papel.
-
-## 6. Conclusão
-
-Ao final da avaliação, nosso protótipo de papel será modificado de acordo com as experiências do usuário e os dados coletados. Para isto, iremos dar ênfase na interação do usuário com o protótipo, com a meta de alcançar nosso objetivos anteriormente listados. 
 
 
 ## 7. Histórico de Versão
