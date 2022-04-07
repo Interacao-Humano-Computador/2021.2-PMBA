@@ -33,15 +33,17 @@ Disponível em : [whimsical Link](https://whimsical.com/home-T6Dp9jefYawhh2mftef
 
 A construção do diagrama com a técnica HTA, permite compreender o trabalho do usuário na interface. Da forma em que foi feita, devido a quantidade de funcionalidades reduzidas do site, nos trás uma boa ideia de escopo e objetivos do usuário no sistema.
 
+## 6. Referências
+
 Disponível em: <https://usabilidade.unifei.edu.br/2020/01/analise-de-tarefas/> Acesso em: 24/02/22;
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a Edição, p. 162 e 163.
 
-## 4. Histórico de Versão
+## 7. Histórico de Versão
 
-| Versão |  Data  |        Descrição        |     Autor(es)     | 
-|--------|--------|-------------------------|-------------------|
-| 1.0    | 24/02/2022       | Criação do documento    |  Jackes Fonseca   |
-| 1.1    | 24/02/2022  |     Introdução          |  Carlos Rafael    |
-| 1.2    | 24/02/2022  |     Metodologia         |  Herick Lima      |
-| 1.3    | 27/02/2022  | + informações de metodologia | Herick Lima  |
-| 1.4    | 27/02/2022  | + informações de introdução | Carlos Rafael  |
+| Versão | Data       | Descrição                    | Autor(es)      |
+| ------ | ---------- | ---------------------------- | -------------- |
+| 1.0    | 24/02/2022 | Criação do documento         | Jackes Fonseca |
+| 1.1    | 24/02/2022 | Introdução                   | Carlos Rafael  |
+| 1.2    | 24/02/2022 | Metodologia                  | Herick Lima    |
+| 1.3    | 27/02/2022 | + informações de metodologia | Herick Lima    |
+| 1.4    | 27/02/2022 | + informações de introdução  | Carlos Rafael  |
