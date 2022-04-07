@@ -17,6 +17,8 @@ As relações entre os subobjetivos são:
 
 ![image](./img/operacao.png)
 
+<p><strong>Author</strong>: Carlos Rafael</p>
+<p><strong>Exemplo de fluxos entre os objetivos</p>
 
 ## 3. Referências
 
