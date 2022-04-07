@@ -40,4 +40,4 @@ Após a verificação do artefatos foi verificada a falta das especificações
 | Versão | Data       | Descrição                | Autor(es)     |
 | ------ | ---------- | ------------------------ | ------------- |
 | 1.0    | 05/04/2022 | Criação do documento     | Carlos Rafael |
-| 1.0    | 05/04/2022 | verificação por inspeção | Carlos Rafael |
+| 1.0    | 06/04/2022 | verificação por inspeção | Carlos Rafael |
