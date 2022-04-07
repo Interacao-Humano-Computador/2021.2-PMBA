@@ -20,7 +20,13 @@ As relações entre os subobjetivos são:
 <p><strong>Author</strong>: Carlos Rafael</p>
 <p><strong>Exemplo de fluxos entre os objetivos</p>
 
-## 3. Referências
+## 3. Diagrama HTA Geral do site
+
+![Diagrama de Tarefas](./img/analise_de_tarefas.png)
+
+<p align="center" ><strong>Author</strong>: Carlos Rafael</p>
+
+Diagrama geral de objetivos no site PMBA
 
 Disponível em: <https://usabilidade.unifei.edu.br/2020/01/analise-de-tarefas/> Acesso em: 24/02/22;
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a Edição, p. 162 e 163.
