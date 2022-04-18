@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">Polícia Militar do Estado da Bahia</h3>
 
-O site da [Polícia Militar do Estado da Bahia](http://www.pm.ba.gov.br/index.php) é utilizando, principalmente, para fins informativos sobre a história da PMBA e também de membros importantes. Entretanto também possui algumas utilidades, como realizar denúncias e pesquisar sobre antecedentes criminais.
+O site da [Polícia Militar do Estado da Bahia](http://www.pm.ba.gov.br/index.php) é utilizado, principalmente, para fins informativos sobre a história da PMBA e também de membros importantes. Entretanto também possui algumas utilidades, como realizar denúncias e pesquisar sobre antecedentes criminais.
 Após uma pesquisa realizada, o site da Polícia Militar do Estado da Bahia foi escolhido por apresentar problemas de navegação, design mais simples, além de possuir erros, imagens mal posicionadas e também uma deficiência na formatação geral do layoult. Esse repositório é destinado à disciplina de Interação Interação Humano Computador, do curso de Engenharia de Software da Universidade de Brasília.
 
 <br>
