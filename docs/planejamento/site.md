@@ -1,5 +1,11 @@
 ## 1. Introdução
 
+<center>
+  <img width="200 px" src="https://user-images.githubusercontent.com/53023400/163802225-4f5e2308-e4c2-4d71-a344-  cf85f0931adf.png">
+  <figcaption>Polícia Militar do Estado da Bahia</figcaption>
+</center>
+<br>
+
 Com o intuito de selecionar um site para análise durante a disciplina de Interação Humano Computador da Universidade de Brasília, foram listados alguns sites com potenciais aspectos qualitativos da heurística. Assim, o grupo empenhou-se em procurar sites que possam atender os objetivos avaliativos, das quais foram selecionados e serão mostrados a seguir. Por fim, a equipe chegou a um consenso de qual site poderia ser melhor trabalhado e que atendesse de forma geral tais requisitos. Dessa forma, buscou-se, principalmente, visar aqueles que poderíamos propor melhorias.
 
 ## 2. Metodologia
