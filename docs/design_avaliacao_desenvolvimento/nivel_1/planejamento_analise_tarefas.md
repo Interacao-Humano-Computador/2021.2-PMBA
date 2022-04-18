@@ -59,6 +59,14 @@
 3. Insere a Matrícula e a senha
 4. Clica em enviar
 
+### Tarefa 4: Visualizar notícias
+
+#### Persona: May
+
+#### Ações
+
+1. Na página inicial, clicar na notícia que se deseja visualizar
+
 ## Coleta de dados
 
 &emsp;&emsp;Na coleta de dados, o avaliador se colocará no lugar do usuário levando em consideração a persona atribuída a cada tarefa. Depois disso, deverá ser feita uma simulação da execução das tarefas analisadas.<br>
