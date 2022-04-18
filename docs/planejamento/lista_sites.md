@@ -36,7 +36,7 @@ Para a escolha do site da disciplina foram avaliados 4 sites, a fim de escolher 
 [PMBA](http://www.pm.ba.gov.br/index.php)
 
 <center>
-  <img width="400" src="https://user-images.githubusercontent.com/51385738/152888445-a981be23-3a3e-4bff-8cb4-81b65d31b240.JPG"/>
+  <img width="400" src="https://user-images.githubusercontent.com/53023400/163809699-9b92cc91-fabb-4744-9259-abb1106ee76a.png"/>
 </center>
 
 <p> É utilizado, principalmente, para fins informativos sobre a história da PMBA e também de membros importantes. Entretanto também possui algumas utilidades, como realizar denúncias e pesquisar sobre antecedentes criminais. </p>
