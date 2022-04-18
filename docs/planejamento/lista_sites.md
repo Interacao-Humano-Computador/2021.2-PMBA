@@ -1,5 +1,11 @@
 # Lista de Sites avaliados
 
+## 1. Introdução
+
+Para a escolha do site da disciplina foram avaliados 4 sites, a fim de escolher aquele que melhor se adequa as necessidades da disciplina seguindo critérios presentes na avaliação heurística de Nielsen.
+
+## 2. Metodologia
+
 [Nasa](https://www.nasa.gov/)
 
 <center>
@@ -36,7 +42,15 @@
 <p> É utilizado, principalmente, para fins informativos sobre a história da PMBA e também de membros importantes. Entretanto também possui algumas utilidades, como realizar denúncias e pesquisar sobre antecedentes criminais. </p>
 <p>Com a avaliação heurística realizada neste site foram encontrados problemas relacionados à eficiência de uso, estética e design, que podem dificultar o acesso a informações e causar a desorientação do usuário. Porém, tais problemas não ocorrem em qualquer caso de uso e por isso não são considerados com alto grau de severidade e também, as melhorias que podem ser realizadas estão relacionadas à disposição de elementos na página e preocupação com o design responsivo.</p>
 
-## Histórico de 
+## 3. Conclusão
+
+Após verificado todos os aspectos inerentes a cada sistema e visando atender aos critérios da disciplina, foi realizado a [escolha do site](site.md) da disciplina pela equipe.
+
+## 4. Bibliografia
+
+1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+## 5. Histórico de versão
 | Data       | Versão | Descrição                                  | Autor(es)      |
 | ---------- | ------ | ------------------------------------------ | -------------- |
 | 1.0 | 07/02/2022    | Criação do documento                       | Isadora Soares |
