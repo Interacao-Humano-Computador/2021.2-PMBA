@@ -19,12 +19,12 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento:
-      - Ferramentas: planejamento/ferramentas.md
+  - Planejamento:    
       - Sites Avaliados: planejamento/lista_sites.md
       - Site escolhido: planejamento/site.md
-      - Cronograma do Projeto: planejamento/cronograma.md
       - Processo de Design: processo_design/processo_design.md
+      - Cronograma do Projeto: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
   - Análise de Requisitos:
       - Perfil de usuário: analise_requisitos/contexto_uso/perfil_usuario.md
       - Personas: analise_requisitos/contexto_uso/personas.md
@@ -37,9 +37,11 @@ nav:
       - Nível 1:
           - Análise de Tarefas:
               - Planejamento da avaliação de análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md
+              - Planjemaneto da avaliação do Storyvoard: design_avaliacao_desenvolvimento/nivel_1/plan_aval_storyboard.md
               - Avaliação de análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/avaliacao_analise_tarefas.md
           - Storyboard:
               - Planejamento da Avaliação - Storyboard: design_avaliacao_desenvolvimento/nivel_1/planejamento_storyboard.md
+              - Planjemaneto da avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/plan_aval_analise_tarefas.md
               - Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard.md
       - Nível 2:
           - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel.md
@@ -81,5 +83,6 @@ nav:
       - Apresentação 5: apresentacoes/apresentacao5.md
       - Apresentação 6: apresentacoes/apresentacao6.md
       - Apresentação 7: apresentacoes/apresentacao7.md
+      - Apresentação final: apresentacoes/apresentacao_final.md
   - Sprints:
       - Sprint 1: sprint/healtcheck.md
