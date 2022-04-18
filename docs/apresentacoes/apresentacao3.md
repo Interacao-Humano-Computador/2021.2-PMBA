@@ -19,10 +19,10 @@
 
 ## 3. Histórico de versões
 
-| Data       | Versão | Descrição                         | Autor(es)                                                                 |
-| ---------- | ------ | --------------------------------- | ------------------------------------------------------------------------- |
-| 27/02/2022 | 1.0    | Criação dos slides                | Carlos Rafael, Eduardo Gurgel, Herick Lima, Jackes Fonseca, Matheus Salim |
-| 27/02/2022 | 1.1    | Gravação do vídeo                 | Carlos Rafael, Eduardo Gurgel, Herick Lima, Jackes Fonseca, Matheus Salim |
-| 14/03/2022 | 1.2    | Criação do documento              | Eduardo Gurgel                                                            |
-| 14/03/2022 | 1.3    | Adicionando video da apresentação | Eduardo Gurgel                                                            |
-| 14/03/2022 | 1.4    | Adicionando video da apresentação | Eduardo Gurgel                                                            |
+| Data       | Versão | Descrição                         | Autor(es)            |
+| ---------- | ------ | --------------------------------- | -------------------- |
+| 27/02/2022 | 1.0    | Criação dos slides                | Todos os integrantes |
+| 27/02/2022 | 1.1    | Gravação do vídeo                 | Todos os integrantes |
+| 14/03/2022 | 1.2    | Criação do documento              | Eduardo Gurgel       |
+| 14/03/2022 | 1.3    | Adicionando video da apresentação | Eduardo Gurgel       |
+| 14/03/2022 | 1.4    | Adicionando video da apresentação | Eduardo Gurgel       |
