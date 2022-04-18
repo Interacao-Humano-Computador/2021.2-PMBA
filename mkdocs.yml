@@ -37,16 +37,16 @@ nav:
       - Nível 1:
           - Análise de Tarefas:
               - Planejamento da avaliação de análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_tarefas.md
-              - Planejamento da avaliação do Storyvoard: design_avaliacao_desenvolvimento/nivel_1/plan_aval_storyboard.md
+              - Planejamento do relato dos resultados da análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/plan_aval_analise_tarefas.md
               - Avaliação de análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/avaliacao_analise_tarefas.md
           - Storyboard:
               - Planejamento da avaliação - Storyboard: design_avaliacao_desenvolvimento/nivel_1/planejamento_storyboard.md
-              - Planejamento da avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/plan_aval_analise_tarefas.md
+              - Planejamento do relato dos resultados do Storyboard: design_avaliacao_desenvolvimento/nivel_1/plan_aval_storyboard.md
               - Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel_1/avaliacao_storyboard.md
       - Nível 2:
           - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel.md
-          - Planejamento da avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel_2/plan_aval_prot_papel.md
-          - Planejamento da Avaliação - Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_papel.md
+          - Planejamento da avaliação do Protótipo de papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_papel.md
+          - Planejamento do relato dos resultados do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel_2/plan_aval_prot_papel.md
           - Avaliação Protótipo de Papel: design_avaliacao_desenvolvimento/nivel_2/resultados_prototipo_papel.md
       - Nível 3:
           - Protótipo de alta fidelidade: design_avaliacao_desenvolvimento/nivel_3/prototipo_alta_fidelidade.md
