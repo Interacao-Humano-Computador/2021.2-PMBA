@@ -1,6 +1,6 @@
 ## 1. Introdução
 
-Este documento de planejamento compreende como resultados das entrevistas devem ser trabalhados, baseando-se no método selecionado, que no caso do storyboadr são as entrevistas.
+Este documento de planejamento compreende como resultados das entrevistas devem ser trabalhados, baseando-se no método selecionado, que no caso do storyboard são as entrevistas.
 
 ## 2. Metodologia
 
