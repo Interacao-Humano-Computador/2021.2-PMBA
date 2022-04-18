@@ -24,5 +24,6 @@
 | 27/02/2022 | 1.0    | Criação dos slides                | Carlos Rafael, Eduardo Gurgel, Herick Lima, Jackes Fonseca, Matheus Salim |
 | 27/02/2022 | 1.1    | Gravação do vídeo                 | Carlos Rafael, Eduardo Gurgel, Herick Lima, Jackes Fonseca, Matheus Salim |
 | 02/03/2022 | 1.2    | Criação do documento              | Jackes Fonseca                                                            |
-| 02/03/2022 | 1.3    | Adicionando video da apresentação | Jackes Fonseca                                                            |
+| 27/02/2022 |  1.3   |          Edição do vídeo           |    Eduardo Gurgel    |
 | 02/03/2022 | 1.4    | Adicionando video da apresentação | Jackes Fonseca                                                            |
+| 02/03/2022 | 1.5    | Adicionando video da apresentação | Jackes Fonseca                                                            |

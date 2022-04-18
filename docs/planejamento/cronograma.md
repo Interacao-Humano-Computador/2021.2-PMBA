@@ -74,9 +74,9 @@ Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar mel
 
 | Tarefa                                                                             | Data limite de entrega | Autor(es)      | Revisor(es)  |
 | :--------------------------------------------------------------------------------- | ---------------------- | -------------- | ------------ |
-| Relato dos resultados do Protótipo de Papel                                        | 11/04/2022             | Carlos Rafael  | Não definido |
-| Planejamento da Avaliação do protótipo de alta fidelidade                          | 11/04/2022             | Jackes Fonseca | Não definido |
-| planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 11/04/2022             | Não definido   | Não definido |
+| Relato dos resultados do Protótipo de Papel                                        | 11/04/2022             | Herick Lima  | Carlos Rafael |
+| Planejamento da Avaliação do protótipo de alta fidelidade                          | 11/04/2022             | Jackes Fonseca | Herick Lima |
+| planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 11/04/2022             | Carlos Rafael   | Jackes Fonseca |
 
 ## [Apresentação final](../apresentacoes/apresentacao_final.md) (26/04 e 28/04)
 
@@ -84,7 +84,7 @@ Apresentação final do projeto da disciplina
 
 | Tarefa                   | Data limite de entrega | Autor(es)    | Revisor(es)  |
 | :----------------------- | ---------------------- | ------------ | ------------ |
-| Entrega do projeto final | 25/04/2022             | Não definido | Não definido |
+| Entrega do projeto final | 25/04/2022             | Todos os integrantes | Todos os integrantes |
 
 ## Heatmap
 
