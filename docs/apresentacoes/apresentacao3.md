@@ -23,6 +23,7 @@
 | ---------- | ------ | --------------------------------- | -------------------- |
 | 27/02/2022 | 1.0    | Criação dos slides                | Todos os integrantes |
 | 27/02/2022 | 1.1    | Gravação do vídeo                 | Todos os integrantes |
-| 14/03/2022 | 1.2    | Criação do documento              | Eduardo Gurgel       |
-| 14/03/2022 | 1.3    | Adicionando video da apresentação | Eduardo Gurgel       |
+| 27/02/2022 | 1.2    | Edição do vídeo                   | Eduardo Gurgel       |
+| 14/03/2022 | 1.3    | Criação do documento              | Eduardo Gurgel       |
 | 14/03/2022 | 1.4    | Adicionando video da apresentação | Eduardo Gurgel       |
+| 14/03/2022 | 1.5    | Adicionando video da apresentação | Eduardo Gurgel       |
