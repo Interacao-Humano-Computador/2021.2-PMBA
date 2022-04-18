@@ -31,12 +31,16 @@ São personas definidas com o propósito de ilustrar o exato oposto ao usuário 
   <figcaption class:"center">Fonte: Autoria própria</figcaption>
 </center>
 
-## 3. Referências
+## 3. Conclusão
+As personas foram definidas com base no [perfil do usuário](perfil_usuario.md). Elas poderá ser utilizada na falta de um usuário real do sistema, de modo que, por possuir as mesmas característcias, forneça informações precisas e válidas para a identificação de questões inerentes à aplicação e auxilie na construção e validaçãode dos requisitos além da relização de avaliações fornecendo feedbacks para a equipe de desenvolvimento.
+
+## 4. Referências
 1. BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
 
-## 4. Histórico de Versão
+## 5. Histórico de Versão
 
 | Versão |  Data  |        Descrição        |     Autor(es)     | 
 |--------|--------|-------------------------|-------------------|
 | 1.0    | 24/02/2022       | Criação do documento    |  Jackes Fonseca                 |
 | 1.1    | 26/02/2022       | Adicionando informações sobre personas    |  Jackes Fonseca, Isadora Soares                 |
+| 1.2    | 18/04/2022       | Adicionando conclusão no documento de personas    |  Jackes Fonseca                 |
