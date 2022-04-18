@@ -94,3 +94,4 @@
 | ------ | ---------- | -------------------- | -------------- |
 | 1.0    | 16/03/2022 | Criação do documento | Eduardo Gurgel |
 | 1.1    | 16/03/2022 | Adição dos tópicos   | Eduardo Gurgel |
+| 1.2    | 18/04/2022 | Adição de nova tarefa| Jackes Fonseca |
