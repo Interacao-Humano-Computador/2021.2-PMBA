@@ -4,8 +4,6 @@
 </center>
 <br>
 
-## 1. Introdução
-
 Com o intuito de selecionar um site para análise durante a disciplina de Interação Humano Computador da Universidade de Brasília, foram listados alguns [sites](lista_sites.md) com potenciais aspectos qualitativos da heurística. Assim, o grupo empenhou-se em procurar sites que possam atender os objetivos avaliativos, das quais foram selecionados e serão mostrados a seguir. Por fim, a equipe chegou a um consenso de qual site poderia ser melhor trabalhado e que atendesse de forma geral tais requisitos. Dessa forma, buscou-se, principalmente, visar aqueles que poderíamos propor melhorias.
 
 ## 2. Metodologia

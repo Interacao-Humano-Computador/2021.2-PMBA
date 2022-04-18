@@ -19,12 +19,12 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento:
-      - Ferramentas: planejamento/ferramentas.md
+  - Planejamento:    
       - Sites Avaliados: planejamento/lista_sites.md
       - Site escolhido: planejamento/site.md
-      - Cronograma do Projeto: planejamento/cronograma.md
       - Processo de Design: processo_design/processo_design.md
+      - Cronograma do Projeto: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
   - Análise de Requisitos:
       - Perfil de usuário: analise_requisitos/contexto_uso/perfil_usuario.md
       - Personas: analise_requisitos/contexto_uso/personas.md
