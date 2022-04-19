@@ -51,6 +51,10 @@ Conforme o acrônimo do Framework DECIDE, os avaliadores devem decidir como lida
 
 Será selecionado uma pessoa que se enquadra dentro do [perfil do usuário](../../analise_requisitos/contexto_uso/perfil_usuario.md) e/ou [personas](../../analise_requisitos/contexto_uso/personas.md) obtidas durante a fase da Análise de Requisitos. Sendo o público alvo Policiais Militares.
 
+### Ferramenta utilizada
+
+Será utilizado a ferramenta [Teams](../../planejamento/ferramentas.md) para comunicação
+
 ### Teste Piloto
 
 O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. (Barbosa e Silva, 2010)
