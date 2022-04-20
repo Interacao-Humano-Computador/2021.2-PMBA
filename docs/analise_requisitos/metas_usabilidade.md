@@ -35,3 +35,4 @@ Para garantir o mínimo necessário para apresentar uma boa interface e experiê
 | 1.0    | 12/03/2022 | Criação do documento                    | Eduardo Gurgel |
 | 1.1    | 12/03/2022 | Adição das metas                        | Eduardo Gurgel |
 | 1.2    | 14/03/2022 | Adição de novas metas e metas aplicadas | Isadora Soares |
+| 1.3    | 20/04/2022 | Adicionando bibliografia                | Carlos Rafael  |
