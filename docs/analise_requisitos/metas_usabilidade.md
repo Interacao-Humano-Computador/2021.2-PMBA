@@ -20,6 +20,9 @@ As metas de usabilidade possuem o objetivo de fornecer ao designer de interaçã
 Para garantir o mínimo necessário para apresentar uma boa interface e experiência para o usuário, é necessário levar em cosideração as metas de usabilidade na hora do desenvolvimento.
 
 <br/>
+## 4. Bibliogafia
+
+1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 <br/>
 
 ## 4. Histórico de Versão
