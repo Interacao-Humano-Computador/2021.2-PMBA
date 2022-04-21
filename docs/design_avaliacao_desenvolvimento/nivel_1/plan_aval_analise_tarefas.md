@@ -61,7 +61,7 @@ Visualizar Contracheque
 
 ### 4.4. Tarefa 4
 
-Visualizar Contracheque
+Visualizar Notícia
 
 - Página inicial
   - Selecionar notícia a ser visualizada 
