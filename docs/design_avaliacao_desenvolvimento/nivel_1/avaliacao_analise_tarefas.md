@@ -6,7 +6,7 @@ As entrevistas visam coletar dados e levantar requisitos. No formato remoto ou p
  - Tarefa 1 - Realizar denúncia Online
  - Tarefa 2 - Verificar antecedentes criminais
  - Tarefa 3 - Visualizar Contracheque
- - Tarefa 4 - Visualizar Contracheque
+ - Tarefa 4 - Visualizar Notícia
 
 
 ## 3. Conclusão
